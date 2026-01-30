@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#3A8DFF"
+backgroundColor = "#0A1A2F"
+secondaryBackgroundColor = "#1E1E1E"
+textColor = "#F7F9FC"
+font = "sans serif"  # We'll override this with custom CSS
+
+[server]
+headless = true
+port = 8501
+enableCORS = true
+enableXsrfProtection = true
+maxUploadSize = 200
