@@ -10,6 +10,10 @@
 
 A comprehensive, production-ready analytics dashboard for e-commerce businesses built with Streamlit, featuring advanced analytics, machine learning predictions, and interactive visualizations.
 
+## 📊 Live Demo
+
+**[View Live Dashboard](https://huggingface.co/spaces/Luismodesto86/E_Commerce_Dashboard)** ← Click to explore!
+
 ## ✨ Features
 
 ### 📊 **Business Overview**
