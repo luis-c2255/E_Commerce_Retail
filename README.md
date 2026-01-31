@@ -1,5 +1,13 @@
 # 🛒 Retail Analytics Dashboard
 
+![Static Badge](https://img.shields.io/badge/streamlit-app-red?logo=streamlit)
+![Static Badge](https://img.shields.io/badge/python-3.10-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/License-MIT-orange)
+![Static Badge](https://img.shields.io/badge/Plotly-charts-purple?logo=plotly)
+![Static Badge](https://img.shields.io/badge/github-repo-green?logo=github)
+
+![Cover](/utils/istockphoto-2061836383-612x612.svg)
+
 A comprehensive, production-ready analytics dashboard for e-commerce businesses built with Streamlit, featuring advanced analytics, machine learning predictions, and interactive visualizations.
 
 ## ✨ Features
